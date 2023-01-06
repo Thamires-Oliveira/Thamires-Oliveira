@@ -27,5 +27,5 @@
   <a href="https://www.linkedin.com/in/thamires-oliveira-97b16817a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
    ![snake gif](https://github.com/Thamires-Oliveira/Thamires-Oliveira/blob/output/github-contribution-grid-snake.svg)
-  
+  ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 </div>
