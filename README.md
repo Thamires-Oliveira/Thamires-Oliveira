@@ -31,7 +31,7 @@
   
    <p align="center"> 
 
-  ![Snake animation](https://github.com/Thamires-Oliveira/Thamires-Oliveira/blob/output/github-contribution-grid-snake.svg)
+  ![](https://github.com/Thamires-Oliveira/Thamires-Oliveira/blob/output/github-contribution-grid-snake.svg)
  </p>
  
 </div>
