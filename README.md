@@ -29,9 +29,9 @@
   
   ##
   
-   <p align="center"> 
+   <!-- <p align="center"> 
 
   ![](https://github.com/Thamires-Oliveira/Thamires-Oliveira/blob/output/github-contribution-grid-snake.svg)
- </p>
+ </p> -->
  
 </div>
